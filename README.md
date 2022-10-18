@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @namcnamara
+- 🌱 I’m currently learning C++ and C#
+- 📫 nicholas.anthony.mcnamara@gmail.com
