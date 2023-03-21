@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @namcnamara
-- 🌱 I’m currently learning C++ and C#
+- 🌱 I’m a graduate CS student attending Seattle University
 - 📫 nicholas.anthony.mcnamara@gmail.com
